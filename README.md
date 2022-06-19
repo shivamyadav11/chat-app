@@ -51,7 +51,7 @@
 **1. Fork and clone this repository using**
 
    ```
-   git clone https://github.com/sandip2224/ChatIO.git && cd ChatIO/
+   git clone https://github.com/shivamyadav11 && cd ChatIO/
    ```  
    
 **2. Install required dependencies/dev dependencies using**  
@@ -68,8 +68,6 @@
 
   ```
   MONGO_URI=<Unique MongoDB Cluster URL>
-  PUBLIC_KEY=<Public VAPID Key>
-  PRIVATE_KEY=<Private VAPID Key>
   BASE_URL=<App Server URL> (Either http://localhost:3000 or deployment origin)
   ```
 
@@ -88,4 +86,4 @@ If you found this project useful, please leave a :star: on Github💔.
 ---
 
 ## ✨ Project Maintained By-
-  - [Sandipan Das](https://linkedin.com/in/sandipan0164/)
+  - [Shivam Yadav](https://www.linkedin.com/in/shivamyadav7470/)
