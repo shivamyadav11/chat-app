@@ -1,9 +1,5 @@
 # ChatIO🚀
 
-<!-- PROJECT LOGO -->
-
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?style=for-the-badge)](http://shields.io/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 <!-- ABOUT THE PROJECT -->
 
@@ -40,9 +36,7 @@
 
 ## 🚩New Updates
 
-- Added `{user} is typing` functionality.
 - Added persistent chat storage in MongoDB Atlas
-- Added push notification support on local environment
 
 <!-- BUILT WITH -->  
 
