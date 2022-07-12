@@ -8,7 +8,7 @@
 		"dev": "cross-env NODE_ENV=development nodemon server/server"
 	},
 	"repository": "https://github.com/sandip2224/ChatIO.git",
-	"author": "sandip2224 <sandipan2224@gmail.com>",
+	"author": "shivamyadav <shivamyadab7470@gmail.com>",
 	"license": "MIT",
 	"dependencies": {
 		"axios": "^0.27.2",
